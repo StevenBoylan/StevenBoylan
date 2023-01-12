@@ -9,7 +9,7 @@
 
 ## Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-My name is Steven and I currently work as an Innovation Consultant. </br>
+My name is Steven and I currently work as aFreelance Innovation Consultant. </br>
 That basically means I help clients understand what technologies like AI, XR and Web3 can do for their business. </br>
 I have created, project managed and lead EU funded innovation projects for clients covering a wide range of verticals including: *SmartCities, eCommerce, MedTech, FinTech, Tourism, InsureTech, EdTech and GreenTech...* for a wide range of clients including SMEs and Large Corporations. 
 
