@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="https://giphy.com/embed/FlPJcTplkfefDCKq2b" width="240" height="240"> <p><a href="https://giphy.com/gifs/FlPJcTplkfefDCKq2b">via GIPHY</a></p>
+ <img src="http://stevenboylan.eu/wp-content/uploads/2020/09/Name_Logo.png"  width="600" height="120"> <p><a href="https://stevenboylan.eu"></a></p>
   <a href="https://linkedin.com/in/StevenBoylan">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
