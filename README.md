@@ -9,21 +9,24 @@
 
 ## Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-My name is Steven and I currently work as aFreelance Innovation Consultant. </br>
+My name is Steven and I currently work as an Innovation Consultant. </br>
 That basically means I help clients understand what technologies like AI, XR and Web3 can do for their business. </br>
-I have created, project managed and lead EU funded innovation projects for clients covering a wide range of verticals including: *SmartCities, eCommerce, MedTech, FinTech, Tourism, InsureTech, EdTech and GreenTech...* for a wide range of clients including SMEs and Large Corporations. 
+I have created, project managed and lead private as well as EU funded innovation projects for clients, covering a wide range of verticals including: *SmartCities, eCommerce, MedTech, FinTech, Tourism, InsureTech, EdTech and GreenTech...* for a wide range of clients including SMEs and Large Corporations. 
 
-I studied a Degree in Computer Science but have always worked at the intersection of technology, so basically, i'm not a professional programmer. 
+I am fascinated by AI and have a growing interest in Web3 technologies - I think the intersection of these two areas present a very exciting future! 
 
-At the weekends, you'll find me hurtling down a mountain on my mountain bike - *only slightly out of control* - or hunting for treasures in a local park with my 4 year old daughter. I'm passionate about good food and drink and spend way too much time thinking up new ways to cook and present interesting dishes. 
+I studied a Degree in Computer Science but have always worked at the intersection of technology, (so basically, i'm not a professional programmer - but I can knock up a demp or a prototype if required). 
+
+At the weekends, you'll find me hurtling down a hill on my mountain bike - *only slightly out of control* - or hunting for treasures in a local park with my 4 year old daughter. I'm passionate about good food and drink and spend way too much time thinking up new ways to cook and present interesting dishes. 
 
 
 ---
 
 ### Blog posts
 
-I write a lot professionally *(Tech docs, Start of the Art reports, Project Creation documentation etc etc)*, none of which I can share. However, when I get time, I publish on Medium about stuff that interests me *(Tech, Parenting, etc)*. </br>
-If you want to check it out, here are some links:
+I create a lot of content professionally *(Tech docs, Start of the Art reports, Project Creation documentation etc etc)*, none of which I can share here! 
+However, when I get time, I publish on Medium about stuff that interests me *(Tech, Parenting, etc)*. </br>
+If you want to check it out, here are some links that auto-update every week:
 <!-- BLOG-POST-LIST:START -->
 - [3 things you have to give up as a parent](https://medium.com/@stevenboylan/3-things-you-have-to-give-up-as-a-parent-b6d5e2c0d058?source=rss-5dcaf5d404f8------2)
 - [Something my 18 month old taught me…](https://medium.com/@stevenboylan/something-my-18-month-old-taught-me-472672e25a14?source=rss-5dcaf5d404f8------2)
@@ -50,15 +53,18 @@ I am currently experimenting with the following languages, but only when I get s
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+</br>
+In terms of spoken languanges I can work in English and Spansih, and have a basic conversation in German. 
 
 ---
 
 ### Disclamer
 *I am not a professional programmer - nor am I pretending to be one* </br>
-Although I have a Degree in Computer Science, I have spent most of my carrer since University working in Marketing or Product. That means, I understand enough to be able to advise clients on how best to use technology, or how it will fit with their business model...or even, how they can create new business models using this technology. </br>
-This profile is simply a space for me to experiment with code and create a few proofs of concepts that I think are interesting enough to share. </br>
+Although I have a Degree in Computer Science, I have spent most of my carrer after University working in Marketing or Product Development. 
+That means: I understand code enough to be able to advise clients on how best to use technology, or how it will fit with their business model...or even, how they can create new business models using this technology. </br>
+This profile is simply a space for me to experiment with code and create a few proof-of-concepts that I think are interesting enough to share. </br>
 If you are an experienced programmer, *I'm pretty sure there will be nothing useful for you here.* <br>
-However, everyone is welcome to look and use the code here. 
+However, everyone is welcome to look at and use the code here, if it helps you out in your project. 
 
 #### If you are interested in connecting or working together, feel free to look me up on linkedin or at my own website.
 
@@ -68,17 +74,4 @@ However, everyone is welcome to look and use the code here.
     <img src="https://img.shields.io/badge/Contact%20Me-StevenBoylan.eu-brightgreen" alt="LinkedIn Badge"/>
   </a>
 </div>
-<!--
-**StevenBoylan/StevenBoylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
