@@ -28,6 +28,7 @@ I create a lot of content professionally *(Tech docs, Start of the Art reports, 
 However, when I get time, I publish on Medium about stuff that interests me *(Tech, Parenting, etc)*. </br>
 If you want to check it out, here are some links that auto-update every week:
 <!-- BLOG-POST-LIST:START -->
+- [Reaching out to cold contacts? Consider these points before you do](https://medium.com/@stevenboylan/reaching-out-to-cold-contacts-consider-these-points-before-you-do-9591d152c0e7?source=rss-5dcaf5d404f8------2)
 - [My Digital Son: The aftermath](https://medium.com/@stevenboylan/my-digital-son-the-aftermath-8b16a2b0a1f3?source=rss-5dcaf5d404f8------2)
 - [My Digital Son: His first steps and his untimely demise](https://medium.com/@stevenboylan/my-digital-son-his-first-steps-and-his-untimely-demise-4c73d8b1e227?source=rss-5dcaf5d404f8------2)
 - [My Digital Son: The story behind his conception](https://medium.com/@stevenboylan/my-digital-son-the-story-behind-his-conception-5738a9e5be93?source=rss-5dcaf5d404f8------2)
@@ -37,7 +38,6 @@ If you want to check it out, here are some links that auto-update every week:
 - [9 Challenges for 5G](https://medium.com/@stevenboylan/9-challenges-for-5g-3318b2bdeddf?source=rss-5dcaf5d404f8------2)
 - [3 use cases for ultra fast, ultra reliable 5G](https://medium.com/@stevenboylan/3-use-cases-for-ultra-fast-ultra-reliable-5g-2d315d775206?source=rss-5dcaf5d404f8------2)
 - [Do you take drugs every day?](https://medium.com/@stevenboylan/do-you-take-drugs-every-day-b9264867dca9?source=rss-5dcaf5d404f8------2)
-- [Buttons on Baby’s clothes](https://medium.com/@stevenboylan/buttons-on-babys-clothes-603b40e8ff2a?source=rss-5dcaf5d404f8------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 
